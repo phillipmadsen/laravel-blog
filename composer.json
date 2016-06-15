@@ -1,6 +1,10 @@
 {
     "name": "rnkptl/blogapp",
-    "version":"1.0.0",
+   "version": {
+            "type": "1.0.0",
+            "description": "1.0.0"
+        },
+    "type":"library",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=5.5.0"
