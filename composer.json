@@ -3,6 +3,6 @@
     "version":"1.0.0",
     "description": "A short description of what your package does",
     "require": {
-       
+        "php": ">=5.5.0"
     }
 }
