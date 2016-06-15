@@ -5,7 +5,7 @@
             "description": "1.0.0"
         },
         "minimum-stability": {
-           "type":"dev", 
+           "type":"dev"
         },
     "type":"library",
     "description": "A short description of what your package does",
