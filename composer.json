@@ -1,4 +1,5 @@
 {
-    "name": "rnkptl/blogapp"
+    "name": "rnkptl/blogapp",
+    "minimum-stability": "stable"
     
 }
