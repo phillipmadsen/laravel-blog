@@ -4,6 +4,9 @@
             "type": "1.0.0",
             "description": "1.0.0"
         },
+        "minimum-stability": {
+           
+        },
     "type":"library",
     "description": "A short description of what your package does",
     "require": {
