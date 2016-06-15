@@ -1,7 +1,6 @@
 {
     "name": "rnkptl/blogapp",
-   "version":{"1.0.0"},
-        
+   
     "type":"library",
     "description": "A short description of what your package does",
     
