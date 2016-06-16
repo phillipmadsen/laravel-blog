@@ -1,4 +1,5 @@
 {
+       "minimum-stability": "stable",
       "name": "rnkpatel/laravel-blog",
     "description": "laravel blog app",
     "type": "library",
@@ -9,7 +10,7 @@
             "email": "ronak@exmpl.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+   
+   
     "require": {}
 }
