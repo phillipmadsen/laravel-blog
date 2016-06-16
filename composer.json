@@ -1,5 +1,14 @@
 {
-    "name": "rnkptl/blogapp",
-    "minimum-stability": "stable"
-    
+      "name": "rnkpatel/laravel-blog",
+    "description": "laravel blog app",
+    "type": "library",
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "ronak",
+            "email": "ronak@exmpl.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
