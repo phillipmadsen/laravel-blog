@@ -10,7 +10,9 @@
             "email": "ronak@exmpl.com"
         }
     ],
-   
+   "autoload": {
+        "psr-4": {"rnkpatel\\laravel-blog\\": ["Blog"]}
+    },
    
     "require": {}
 }
