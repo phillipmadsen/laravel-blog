@@ -1,5 +1,5 @@
 {
-       "minimum-stability": "stable",
+       "minimum-stability": "alpha",
       "name": "rnkpatel/laravel-blog",
     "description": "laravel blog app",
     "type": "library",
